@@ -1,0 +1,14 @@
+numpy 
+pandas 
+dotenv
+openAI
+langchain>=0.1.0
+utils
+streamlit
+langchain
+openai
+faiss-cpu
+tiktoken
+pypdf
+python-dotenv
+langchain_experimental
