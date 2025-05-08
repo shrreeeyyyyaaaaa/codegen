@@ -13,7 +13,7 @@ load_dotenv()
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 # LLM setup
-llm = ChatOpenAI(temperature=0.3, model="GPT-4o mini")
+llm = ChatOpenAI(temperature=0.3, model="gpt-3.5-turbo")
 
 # Supported Languages
 languages_supported = ["Python", "Java", "C", "C++", "Rust", "Go", "R"]
