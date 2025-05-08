@@ -12,3 +12,4 @@ tiktoken
 pypdf
 python-dotenv
 langchain_experimental
+langchain.tools.python.tool
