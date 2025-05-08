@@ -1,4 +1,4 @@
-numpy 
+ 
 pandas 
 dotenv
 openAI
@@ -12,4 +12,9 @@ tiktoken
 pypdf
 python-dotenv
 langchain_experimental
-langchain.tools.python.tool
+numpy>=1.21.0
+requests>=2.25.0
+openai>=0.12.0
+transformers>=4.0.0
+pydantic>=1.8.0
+
